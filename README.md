@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayana142?tab=repositories](https://github.com/nayana142?tab=repositories)
 
-- 💬 Ask me about **Machine laerning,Deep learning**
+- 💬 Ask me about **Machine learning,Deep learning**
 
 - 📫 How to reach me **cknayana86@gmail.com**
 
