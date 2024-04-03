@@ -1,6 +1,6 @@
 ![logo](https://github.com/nayana142/nayana142/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Nayana C K</h1>
-<h3 align="center">Data Scientist| Crafting narratives through the language of data</h3>
+<h3 align="center">"Data Scientist | Unveiling Stories through Data | Innovating with Analytics"</h3>
 <img align="right" alt="Data SCience" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayana142&label=Profile%20views&color=0e75b6&style=flat" alt="nayana142" /> </p>
