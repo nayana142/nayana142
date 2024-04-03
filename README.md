@@ -1,4 +1,4 @@
-![logo](https://github.com/nayana142/nayana142/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.mp4)
+![logo](https://github.com/nayana142/nayana142/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nayana C K</h1>
 <h3 align="center">Data Scientist| Crafting narratives through the language of data</h3>
 <img align="right" alt="Data SCience" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayana142&show_icons=true&locale=en" alt="nayana142" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayana142&" alt="nayana142" /></p>
+
