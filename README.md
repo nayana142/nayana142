@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently learning **Data science, Django, Flask**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nayana142](https://github.com/nayana142)[https://www.kaggle.com/nayanack](https://www.kaggle.com/nayanack)
+- 👨‍💻 All of my projects are available at [https://github.com/nayana142](https://github.com/nayana142)
+-   [https://www.kaggle.com/nayanack](https://www.kaggle.com/nayanack)
 
 - 💬 Ask me about **Machine learning,Deep learning,Natural language processing**
 
