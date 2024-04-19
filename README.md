@@ -18,7 +18,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nayanajnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nayanajnair" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nayanajnair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nayanajnair/" height="50" width="50" /></a>
 <a href="https://www.kaggle.com/nayanack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nayanack" height="50" width="50" /></a>
 <a href="https://instagram.com/https://www.instagram.com/the_infnite_soul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_infnite_soul/" height="50" width="50" /></a>
 </p>
