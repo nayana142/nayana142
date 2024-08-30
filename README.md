@@ -1,6 +1,7 @@
-![logo](https://github.com/nayana142/nayana142/blob/main/BANNER.png)
+![Nayana c k  Data Scientist](https://github.com/user-attachments/assets/9ff047c6-dce8-41f5-b1bb-e5f447cb829c)
+
 <h1 align="center">Hi 👋, I'm Nayana C K</h1>
-<h3 align="center"> "Data Science Architect: Sculpting Narratives with Data| Innovating with Analytics" </h3>
+<h3 align="center"> "A Curious Mind 🔍, Shaping the Future with Data 📊" </h3>
 
 <img align="right" alt="Data SCience" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
