@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **cknayana86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dj0uglB8IhB9i-3wcLtPFtA6AEAWJNWI/](https://drive.google.com/file/d/1Dj0uglB8IhB9i-3wcLtPFtA6AEAWJNWI/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Dj0uglB8IhB9i-3wcLtPFtA6AEAWJNWI/)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
