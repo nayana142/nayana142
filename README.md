@@ -7,11 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayana142&label=Profile%20views&color=0e75b6&style=flat" alt="nayana142" /> </p>
 
-- 🌱 I’m currently learning **Data science, Django, Flask**
+- 👨‍💻 I’m currently Working as a **Data scientist Cum Trainer**
+  
+- 🌱 I’m currently learning **GenAI**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/nayanack](https://www.kaggle.com/nayanack)
+- 🎯 All of my projects are available at [Portfolio](https://nayana142.github.io/)
 
-- 💬 Ask me about **Machine learning,Deep learning,Natural language processing**
+- 📝 I regularly write articles on [Medium](https://medium.com/@cknayana02)
+
+- 💬 Ask me about **Data preprocessing,Machine Learning,Deep Learning**
 
 - 📫 How to reach me **cknayana86@gmail.com**
 
